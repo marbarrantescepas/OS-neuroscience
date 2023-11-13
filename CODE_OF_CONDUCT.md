@@ -16,8 +16,8 @@ Be patient and respectful: Not all of us will agree all the time and we're all l
 
 Be careful in the words that we choose: We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
 
-    violent threats or language directed against another person
-    discriminatory jokes and language
+- violent threats or language directed against another person
+-  discriminatory jokes and language
     posting sexually explicit or violent material
     posting (or threatening to post) other people’s personally identifying information (“doxing”)
     personal insults
