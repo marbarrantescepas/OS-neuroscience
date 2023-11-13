@@ -1,4 +1,4 @@
-# Code of conduct
+# Code of Conduct
 
 We aim to foster a friendly and positive community environment and we welcome everyone that would like to participate. This code of conduct outlines our expectations of participants within the community, as well as the steps to report unacceptable behavior.
 
@@ -6,7 +6,7 @@ By participating in this community, participants agree: (1) to abide by this cod
 
 Any form of behaviour to discriminate, exclude, intimidate, or cause discomfort, is a violation of the code of conduct. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong. Anyone who violates this code of conduct may be banned from the community.
 
-# Expectations of community participants
+# Expectations of Community Participants
 
 Be welcoming and friendly.
 
@@ -29,7 +29,7 @@ In general, if someone asks you to stop, then stop.
 
 Try to understand why we disagree: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Diversity contributes to the strength of our community. Focus on helping to resolve issues and learning from mistakes.
 
-# Reporting issues
+# Reporting Issues
 
 If you experience or witness unacceptable behavior or have any other concerns, please report it by contacting [NAME] at [email]
 
