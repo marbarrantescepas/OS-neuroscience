@@ -18,12 +18,12 @@ Be careful in the words that we choose: We are a community of professionals, and
 
 - violent threats or language directed against another person
 -  discriminatory jokes and language
-    posting sexually explicit or violent material
-    posting (or threatening to post) other people’s personally identifying information (“doxing”)
-    personal insults
-    unwelcome sexual attention
-    advocating for or encouraging any of the above behavior
-    repeated harassment of others
+- posting sexually explicit or violent material
+-  posting (or threatening to post) other people’s personally identifying information (“doxing”)
+-  personal insults
+-  unwelcome sexual attention
+-  advocating for or encouraging any of the above behavior
+-  repeated harassment of others
 
 In general, if someone asks you to stop, then stop.
 
@@ -35,11 +35,12 @@ If you experience or witness unacceptable behavior or have any other concerns, p
 
 All reports will be handled with discretion. In your report please include:
 
-    your contact information
-    names (real, nicknames, or pseudonyms) of any individuals involved, and those of any witnesses
-    your account of what occurred or is ongoing, including, if possible, links to any publicly available record
-    any additional information that may be helpful
+- your contact information
+- names (real, nicknames, or pseudonyms) of any individuals involved, and those of any witnesses
+- your account of what occurred or is ongoing, including, if possible, links to any publicly available record
+- any additional information that may be helpful
 
 After filing a report, the incident will be reviewed, followed up with any additional questions, and a decision made as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
-attribution
+
+# Attribution
 This document is adapted from code of conducts for Open Life Science, The Carpentries and React.
