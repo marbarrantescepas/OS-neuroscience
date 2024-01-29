@@ -25,10 +25,11 @@ However, we faced a series of challenges, encompassing the need to navigate busy
 3. ✒️ To keep things moving, we set up casual bi-weekly 2-hour writing sessions. It's a time for the team to get together and make progress on the project in a laid-back, collaborative way. 
 
 ## Next steps
-The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective. Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook's content, ensuring long-term sustainability and relevance.
+The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective. 
+
+Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook's content, ensuring long-term sustainability and relevance.
 
 ### Staying connected
-Yes! We want to stay connected with the OLS community  open.science.anw@amsterdamumc.nl 
-_Do you plan to stay in touch with the OLS community or other members? If yes, how do you think you can do that?_
+🌱 We would like to stay in contact with all the amazing people of the OLS community. We look forward to collaborating with fellow mentors and mentees to create a supportive environment where everyone can thrive and reach their full potential. We would like hearing from you and we are looking forward contributors, if you are interested contact us via email open.science.anw@amsterdamumc.nl 
 
-:sparkles: We would like to express our gratitude to our mentor, Siobhan Hall, for guiding us through the process, providing feedback, and giving a broad perspective! 
+:sparkles: Many, many thanks to our mentor, Siobhan Hall, for guiding us through the process, providing feedback, and giving a broad perspective! 
