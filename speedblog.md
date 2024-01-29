@@ -3,13 +3,6 @@
 ## Meet the Team
 Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field.  Our aim is to promote and implement Open Science (OS) practices within research departments focusing on Neurosciences. 
 
-- Ideally your speed blog will be a written piece with a picture (max 2) and contain some links and references. In terms of word count you are aiming for between 500 and 1200 words.
-- We will post your speedblog on OLS website: openlifesci.org/posts
-- See this post for guidance on speed blogging: https://software.ac.uk/speed-blogging-and-tips-writing-speed-blog-post
-- Example you can draw from: https://openlifesci.org/posts/2019/10/21/culture-track 
-
-**Here are a few questions to help you generate ideas and content for your speedblog:**
-
 ## Project background
 Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community. 
 
@@ -47,4 +40,5 @@ Yes! We want to stay connected with the OLS community  open.science.anw@amsterda
 _Do you plan to stay in touch with the OLS community or other members? If yes, how do you think you can do that?_
 
 ## Special mentions and acknowledgements
+
 
