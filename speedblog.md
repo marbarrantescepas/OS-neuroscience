@@ -1,7 +1,7 @@
 # Speed Blog: Open Science Guidebook for Neuroscience
 
 ## Meet the Team
-Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field.  Our aim is to promote and implement Open Science (OS) practices within research departments focusing on Neurosciences. 
+Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field.  Our aim is to promote and implement Open Science practices within research departments focusing on Neurosciences. 
 
 ![Alt text](https://github.com/marbarrantescepas/OS-neuroscience/blob/main/images/membersOSWG-ANW.png)
 
@@ -42,6 +42,4 @@ The immediate focus is on **officially launching the project**, incorporating al
 Yes! We want to stay connected with the OLS community  open.science.anw@amsterdamumc.nl 
 _Do you plan to stay in touch with the OLS community or other members? If yes, how do you think you can do that?_
 
-## Special mentions and acknowledgements
-
-
+:sparkles: Special thanks to our mentor, Siobhan Hall, for guiding us through the process, providing feedback, and giving a broad perspective! 
