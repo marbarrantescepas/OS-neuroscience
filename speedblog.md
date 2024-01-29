@@ -1,7 +1,7 @@
 # Speed Blog: Open Science Guidebook for Neuroscience
 
 ## Meet the Team
-Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field. 
+Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field.  Our aim is to promote and implement Open Science (OS) practices within research departments focusing on Neurosciences. 
 
 - Ideally your speed blog will be a written piece with a picture (max 2) and contain some links and references. In terms of word count you are aiming for between 500 and 1200 words.
 - We will post your speedblog on OLS website: openlifesci.org/posts
@@ -11,16 +11,24 @@ Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.co
 **Here are a few questions to help you generate ideas and content for your speedblog:**
 
 ## Project background
-Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community. Ultimately, the guidebook aims to bridge the gap between knowledge and implementation, advancing open science in neuroscience.
+Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community. 
 
 ## Expectations from this program  
-Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing a specialized Open (Neuro)Science Guidebook. We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, understanding licensing and data sharing, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
+Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing the project. We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, understanding licensing and data sharing, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
 
 ## Goals set at the beginning of the project
 _Missions and goals set in the beginning of your project in OLS_
 
 ## Key understanding and accomplishments
-_List 2-3 things you've learned or accomplished whilst participating._
+We learn a lot about... 
+1. Licesing and data sharing
+2. Create webpages from GitHub repositories
+3. Create a Code of Conduct and contributing file.
+4. Learship and engagement
+But we had to face some challenges!
+1. Busy schedules
+2. New knowledge assimilation
+3. Difficulties to start and design the project and coordinate between all of us. 
 
 ## The main goals achieved in this project 
 _Was this the same as goals above, that you originally set?_
