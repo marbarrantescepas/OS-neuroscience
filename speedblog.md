@@ -3,6 +3,8 @@
 ## Meet the Team
 Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field.  Our aim is to promote and implement Open Science (OS) practices within research departments focusing on Neurosciences. 
 
+
+
 ## Project background
 Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community. 
 
