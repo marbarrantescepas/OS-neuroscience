@@ -1,7 +1,7 @@
 # Speed Blog: Open Science Guidebook for Neuroscience
 
 # Meet the Team
-Learn more about the [Open Science Working Group] (https://anatomy-neurosciences.com/initiatives/openscience/) of the Anatomy and Neuroscience Department from the Amsterdam UMC. 
+Learn more about the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) of the Anatomy and Neuroscience Department from the Amsterdam UMC. 
 
 -----
 
