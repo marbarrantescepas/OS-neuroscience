@@ -17,6 +17,12 @@ Our project seeks to **create a tailored Open Science Guidebook for Neuroscience
 Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing the project. We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, understanding licensing and data sharing, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
 
 ## Key understanding and accomplishments
+### The initial steps 
+_Starting out - what did you do to explore the problems / project?_
+
+### What elements helped you get there? 
+_Discussions, connections made, activities carried out, mentors consulted, other?_
+
 We learn a lot about... 
 1. Licesing and data sharing
 2. Create webpages from GitHub repositories
@@ -33,21 +39,11 @@ But we had to face some challenges!
 2. We create a GitHub repository for the project
 3. We set 2h writing sessions every 2 weeks.
 
-### The initial steps 
-_Starting out - what did you do to explore the problems / project?_
-
-### What elements helped you get there? 
-_Discussions, connections made, activities carried out, mentors consulted, other?_
-
 ## Next steps
-
-### My immediate next step is to... 
-_Whether you're launching something, bringing someone new in, adding governance, or writing up a project plan or case study - what's happening next?_
-
-### Longer term tasks
-_What will be the long term goals and sustainability plans - this can also be about starting your project if you did not do that already_
+The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective. Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook's content, ensuring long-term sustainability and relevance.
 
 ### Staying connected
+Yes! We want to stay connected with the OLS community  open.science.anw@amsterdamumc.nl 
 _Do you plan to stay in touch with the OLS community or other members? If yes, how do you think you can do that?_
 
 ## Special mentions and acknowledgements
