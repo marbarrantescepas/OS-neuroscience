@@ -1,6 +1,6 @@
 # Speed Blog: Open Science Guidebook for Neuroscience
 
-# Meet the Team
+## Meet the Team
 Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department. We are a diverse team of neuroscientist, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for advancing the field. 
 
 - Ideally your speed blog will be a written piece with a picture (max 2) and contain some links and references. In terms of word count you are aiming for between 500 and 1200 words.
@@ -11,10 +11,10 @@ Hoiiii! We are the [Open Science Working Group](https://anatomy-neurosciences.co
 **Here are a few questions to help you generate ideas and content for your speedblog:**
 
 ## Project background
-_Tell us what motivated you to work on this project._
+Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community. Ultimately, the guidebook aims to bridge the gap between knowledge and implementation, advancing open science in neuroscience.
 
 ## Expectations from this program  
-_What did you expect or hope to learn from participating in OLS?_
+Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing a specialized Open (Neuro)Science Guidebook. We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, understanding licensing and data sharing, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
 
 ## Goals set at the beginning of the project
 _Missions and goals set in the beginning of your project in OLS_
