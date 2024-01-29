@@ -16,22 +16,22 @@ Our project seeks to **create a tailored Open Science Guidebook for Neuroscience
 ## Expectations from this program  
 Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing the project. We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, understanding licensing and data sharing, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
 
-## Goals set at the beginning of the project
-_Missions and goals set in the beginning of your project in OLS_
-
 ## Key understanding and accomplishments
 We learn a lot about... 
 1. Licesing and data sharing
 2. Create webpages from GitHub repositories
 3. Create a Code of Conduct and contributing file.
 4. Learship and engagement
+   
 But we had to face some challenges!
 1. Busy schedules
 2. New knowledge assimilation
 3. Difficulties to start and design the project and coordinate between all of us. 
 
 ## The main goals achieved in this project 
-_Was this the same as goals above, that you originally set?_
+1. We created an overview of the chapter of the Guidelines
+2. We create a GitHub repository for the project
+3. We set 2h writing sessions every 2 weeks.
 
 ### The initial steps 
 _Starting out - what did you do to explore the problems / project?_
