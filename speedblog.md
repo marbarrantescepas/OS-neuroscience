@@ -47,20 +47,4 @@ Yes! We want to stay connected with the OLS community  open.science.anw@amsterda
 _Do you plan to stay in touch with the OLS community or other members? If yes, how do you think you can do that?_
 
 ## Special mentions and acknowledgements
-_Please mention ideas, lessons and people who helped you achieve whatever you could in this project so far_
 
-## Optional prompts
-
-**More questions on helping you envision your next steps in the project**
-
-VISION STANDS WILL ADDRESS
-
--   What I plan to create as a leader in the next 10 months.
--   The vision of what will be so, if I am successful in my work.
-
-VISION STAND PREPARATION NOTES
-
--   What will be so in 5/10/20 years time? What is your overall BIG vision?
--   Why is this important to you? What is in it for you? For others?
--   What are 2-3 key activities or critical points we should know about your vision?
--   What is the difference your vision will make for you, your community, (the world)?
