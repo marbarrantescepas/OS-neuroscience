@@ -11,7 +11,7 @@ Our project seeks to **create a tailored Open Science Guidebook for Neuroscience
 ## Our process in OLS
 Participating in the OLS-8 program, our expectations centered on acquiring comprehensive knowledge and skills for developing the project such ours. 
 
-## Key understanding and accomplishments
+### Key understanding and accomplishments
 We aimed to learn the intricacies of curating and consolidating resources, creating tailored content, and enhancing accessibility for effective dissemination. Additionally, we anticipated gaining insights into project design with multiple collaborators, and identifying suitable platforms for project outreach. Furthermore, we hoped to grasp strategies for sustainable and accessible project management, collaboration techniques, and attracting external contributors.
 
 ### What elements helped you get there? 
@@ -19,10 +19,10 @@ Thanks to our bi-weekly mentor meetings and participation in OLS-8 calls, we've 
    
 However, we faced a series of challenges, encompassing the need to navigate busy schedules, assimilate new knowledge and put it into practice, and struggle with difficulties initiating and designing the project while ensuring effective coordination among all team members.
 
-## The main goals achieved in this project 
-1. We created an overview of the chapter of the Guidelines
-2. We create a GitHub repository for the project
-3. We set 2h writing sessions every 2 weeks.
+### The main goals achieved in this project 
+1. :clipboard: We created an overview of the Guidelines' chapters
+2. :file_folder: We created a GitHub repository for the project
+3. :black_nib: We set bi-weekly 2h writing sessions.
 
 ## Next steps
 The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective. Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook's content, ensuring long-term sustainability and relevance.
