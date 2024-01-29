@@ -20,9 +20,9 @@ Thanks to our bi-weekly mentor meetings and participation in OLS-8 calls, we've 
 However, we faced a series of challenges, encompassing the need to navigate busy schedules, assimilate new knowledge and put it into practice, and struggle with difficulties initiating and designing the project while ensuring effective coordination among all team members.
 
 ### The main goals achieved in this project 
-1. :clipboard: We created an overview of the Guidelines' chapters
-2. :file_folder: We created a GitHub repository for the project
-3. :black_nib: We set bi-weekly 2h writing sessions.
+1. 📋 We put together a handy overview that breaks down the different chapters of the Guidelines, giving us a roadmap for the project.
+2. 📁 We made things organized by creating a GitHub repository for the project. This helps us all work together smoothly, keeping track of changes and staying up-to-date.
+3. ✒️ To keep things moving, we set up casual bi-weekly 2-hour writing sessions. It's a time for the team to get together and make progress on the project in a laid-back, collaborative way. 
 
 ## Next steps
 The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective. Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook's content, ensuring long-term sustainability and relevance.
