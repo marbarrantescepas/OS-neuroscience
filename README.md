@@ -37,9 +37,4 @@ Looking further ahead, we aspire to cultivate a community that actively contribu
 
 ✨ Many, many thanks to our mentor from OLS-8 cohort, Siobhan Hall, for guiding us through the process, providing feedback, and giving a broad perspective!
 
-
-We welcome contributions to improve and expand these guidelines. Please follow the [Contribution Guidelines](CONTRIBUTING.md) for details.
-
-
-
 ---
