@@ -3,33 +3,22 @@
 
 ## Introduction
 
-Welcome to the Open Science Guidelines for Neuroscience repository! This repository aims to provide a comprehensive set of guidelines and resources to promote and apply open science principles in the field of neuroscience. Open science fosters transparency, collaboration, and reproducibility, which are crucial for advancing scientific knowledge and innovation.
+Welcome to the Open Science Guidelines for Neuroscience repository! This repository aims to provide a comprehensive set of guidelines and resources to promote and apply open science principles in the field of neuroscience. Check the guidelines in our [website](https://marbarrantescepas.github.io/OS-neuroscience/)!
 
 ## Table of Contents
 
-1. [Why Open Science?](#why-open-science)
-2. [Key Principles](#key-principles)
-3. [Getting Started](#getting-started)
-4. [Data Management](#data-management)
-5. [Code Sharing](#code-sharing)
-6. [Reproducibility](#reproducibility)
-7. [Collaboration](#collaboration)
-8. [Open Access Publications](#open-access-publications)
-9. [Licensing](#licensing)
-10. [Community and Outreach](#community-and-outreach)
-11. [Contributing](#contributing)
-12. [Acknowledgments](#acknowledgments)
+0. [Home](https://marbarrantescepas.github.io/OS-neuroscience/)
+1. [Introduction](https://marbarrantescepas.github.io/OS-neuroscience/tabs/1.%20Introduction.html)
+2. [Preregistration & Protocols](https://marbarrantescepas.github.io/OS-neuroscience/tabs/2.%20Preregistration%20&%20Protocols.html)
+3. [Data Organisation](https://marbarrantescepas.github.io/OS-neuroscience/tabs/3.%20Data%20Organisation.html)
+4. [Open Software & Tools](https://marbarrantescepas.github.io/OS-neuroscience/tabs/4.%20Open%20Software%20&%20Tools.html)
+5. [Educational Resources](https://marbarrantescepas.github.io/OS-neuroscience/tabs/5.%20Educational%20Resources.html)
+6. [Publishing & Preprints](https://marbarrantescepas.github.io/OS-neuroscience/tabs/6.%20Publishing%20&%20Preprints.html)
+7. [Communication](https://marbarrantescepas.github.io/OS-neuroscience/tabs/7.%20Communication.html)
+8. [Create your own group](https://marbarrantescepas.github.io/OS-neuroscience/tabs/8.%20Create%20an%20Open%20Science%20Group.html)
+9. [Inclusivity](https://marbarrantescepas.github.io/OS-neuroscience/tabs/9.%20Inclusivity.html)
+10. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/10.%20Recognition%20&%20Reward.html)
 
-## Why Open Science?
-
-Open science promotes transparency, collaboration, and reproducibility. By making research materials, data, and methods openly available, we contribute to the cumulative nature of scientific progress, enabling others to build upon and verify our work.
-
-## Key Principles
-
-1. **Transparency:** Share all aspects of your research process, including data, methods, and analysis scripts.
-2. **Reproducibility:** Ensure that others can replicate your experiments and analyses by providing detailed documentation.
-3. **Collaboration:** Encourage collaboration by sharing resources openly and fostering a culture of openness and inclusivity.
-4. **Open Access:** Publish your findings in open access journals or repositories to ensure widespread access to knowledge.
 
 ## Getting Started
 
@@ -39,29 +28,7 @@ To apply open science principles in your neuroscience research, follow these ste
 2. Review the key principles outlined in this README.
 3. Explore the guidelines for specific areas such as data management, code sharing, and collaboration.
 
-## Data Management
 
-Proper data management is essential for open science. Follow these guidelines:
-
-1. **Data Organization:** Structure and organize your data using standardized formats.
-2. **Documentation:** Provide comprehensive documentation for your datasets, including variables, units, and collection methods.
-3. **Sharing Platforms:** Deposit your datasets in reputable data repositories with proper metadata.
-
-## Code Sharing
-
-Facilitate transparency and reproducibility by sharing your code:
-
-1. **Version Control:** Use version control systems like Git to track changes in your code.
-2. **Code Documentation:** Document your code thoroughly, including comments and README files.
-3. **Sharing Platforms:** Host your code on platforms like GitHub with an open-source license.
-
-## Reproducibility
-
-Enhance the reproducibility of your research:
-
-1. **Containerization:** Use containers (e.g., Docker) to encapsulate your environment.
-2. **Workflow Automation:** Create automated workflows for data processing and analysis.
-3. **Versioning:** Version your analyses and ensure that dependencies are specified.
 
 ## Collaboration
 
@@ -71,26 +38,6 @@ Promote collaboration within the neuroscience community:
 2. **Collaborative Platforms:** Use collaborative platforms like Google Docs or Overleaf for collaborative writing.
 3. **Attribution:** Clearly attribute contributions in collaborative projects.
 
-## Open Access Publications
-
-Ensure your research is accessible to all:
-
-1. **Open Access Journals:** Publish in open access journals or deposit preprints in repositories.
-2. **Author's Copy:** Share author's copies of publications in the repository.
-
-## Licensing
-
-Choose an open-source license for your work:
-
-1. **License Selection:** Choose a license that aligns with your goals (e.g., MIT, Apache, GNU).
-2. **License File:** Include a license file in your repository.
-
-## Community and Outreach
-
-Engage with the broader community:
-
-1. **Community Building:** Participate in conferences, workshops, and online forums.
-2. **Outreach:** Share your work through blog posts, podcasts, and other outreach activities.
 
 ## Contributing
 
