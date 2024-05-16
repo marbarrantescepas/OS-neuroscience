@@ -29,7 +29,7 @@ The immediate focus is on **officially launching the project**, incorporating al
 
 Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook’s content, ensuring long-term sustainability and relevance.
 
-#Staying connected
+# Staying connected
 
 🌱 We would like to stay in contact with all the amazing people of the OS community. We look forward to collaborating with other neuroscientists to create a supportive environment where everyone can thrive and reach their full potential.
 
