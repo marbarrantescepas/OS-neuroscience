@@ -16,8 +16,7 @@ Welcome to the Open Science Guidelines for Neuroscience repository. This reposit
 6. [Publishing & Preprints](https://marbarrantescepas.github.io/OS-neuroscience/tabs/6.%20Publishing%20&%20Preprints.html)
 7. [Communication](https://marbarrantescepas.github.io/OS-neuroscience/tabs/7.%20Communication.html)
 8. [Create your own group](https://marbarrantescepas.github.io/OS-neuroscience/tabs/8.%20Create%20an%20Open%20Science%20Group.html)
-9. [Inclusivity](https://marbarrantescepas.github.io/OS-neuroscience/tabs/9.%20Inclusivity.html)
-10. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/10.%20Recognition%20&%20Reward.html)
+9. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/10.%20Recognition%20&%20Reward.html)
 
 ## Project background
 
