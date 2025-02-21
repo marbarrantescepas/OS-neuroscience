@@ -82,7 +82,7 @@ myst_heading_anchors = 4
 # a list of builtin themes.
 
 #html_theme = 'pydata_sphinx_theme' 
-html_theme = 'classic'
+html_theme = 'alabaster'
 
 #html_theme_options = { 'style_nav_header_background': '#259595'}
 
@@ -94,24 +94,3 @@ html_theme = 'classic'
 
 # -- Theme configuration -----------------------------------------------------
 
-# Sidebar configuration
-html_sidebars = {
-    "**": ["search-field.html", "sidebar-nav-bs.html"],
-    'index': []
-    }
-
-# General theme options
-html_theme_options = {
-    # Logo
-    'logo': {'text': project},
-    # Upper bar icons
-    'navbar_end': ['theme-switcher', 'navbar-icon-links'],
-    # Icon links
-    "icon_links": [
-        # GitHub of the proyect
-        {"name": "GitHub",
-         "url": "https://github.com/ecastroth/sphinx-documentation-demo",
-         "icon": "fa-brands fa-square-github",
-         "type": "fontawesome",}
-    ]
-}
