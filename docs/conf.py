@@ -9,19 +9,20 @@
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#
+
 import os
 import sys
-import warnings
-sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, os.path.abspath(os.path.join('..', '..')))
 
-import enigmatoolbox
 
 # -- Project information -----------------------------------------------------
 
-project = 'ENIGMA TOOLBOX'
-copyright = '2020, enigmators'
-author = 'Sara Larivière, Boris Bernhardt'
+project = 'Demorepo'
+copyright = '2023, Eduardo Castro'
+author = 'Eduardo Castro'
+
+# The full version, including alpha/beta/rc tags
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -29,67 +30,85 @@ author = 'Sara Larivière, Boris Bernhardt'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_tabs.tabs', 
-              'sphinx.ext.autodoc',
-              'sphinx.ext.autosectionlabel', 
-              'sphinx.ext.autosummary',
-              #'sphinx.ext.doctest',
-              #'sphinx.ext.intersphinx',
-              #sphinx.ext.mathjax',
-              'sphinx.ext.napoleon',
-              'sphinx.ext.viewcode',
-              #'sphinxarg.ext',
-              ]
+extensions = [
+    'numpydoc',             # NumPy documentation
+    'sphinx.ext.viewcode',  # Link to local code
+    'myst_parser',          # For using Markdown inside reST
+    'sphinx_design',        # To add buttons and cards
+]
 
-autosummary_generate = True
-autodoc_default_options = {'members': True, 'inherited-members': True}
-numpydoc_show_class_members = False
-autoclass_content = "class"
-
-
-# The master toctree document.
-master_doc = 'index'
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-highlight_language ='none'
+# Language 
+language = "en"
+
+
+# -- Extension config --------------------------------------------------------
+
+# Numpydoc
+numpydoc_show_class_members = True 
+numpydoc_class_members_toctree = False
+numpydoc_show_inherited_class_members = False
+
+# Autodoc
+autodoc_default_options = {
+    # Autodoc members
+    "members": True,
+    # Autodoc undocumented memebers
+    "undoc-members": False, 
+    # Autodoc private memebers
+    "private-members": True
+    }
+# No document TypeHints
+autodoc_typehints = "none"
+
+# Autosummary
+autosummary_generate = True
+autosummary_generate_overwrite = True
+
+# MyST
+myst_heading_anchors = 4
+
 
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
-html_theme = 'sphinx_rtd_theme'
 
-html_theme_options = { 'style_nav_header_background': '#259595'}
-
-
-# The name of the Pygments (syntax highlighting) style to use.
-from pygments.styles import get_all_styles
-pygments_style = 'enigmalexer'
-
-
-# Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
-
-#def setup(app):
-#    app.add_stylesheet('css/saratheriver_enigma.css')  # may also be an URL
+html_theme = 'pydata_sphinx_theme' 
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# These paths are either relative to html_static_path
-# or fully qualified paths (eg. https://...)
-html_css_files = ['css/saratheriver_enigma.css', 
-                  'css/saratheriver_nomaxwidth.css']
 
-#html_style = 'css/saratheriver_enigma.css'
+# -- Theme configuration -----------------------------------------------------
 
-# add custom files that are stored in _static
-def setup(app):
-   app.add_css_file('css/saratheriver_tabs.css')
+# Sidebar configuration
+html_sidebars = {
+    "**": ["search-field.html", "sidebar-nav-bs.html"],
+    'index': []
+    }
+
+# General theme options
+html_theme_options = {
+    # Logo
+    'logo': {'text': project},
+    # Upper bar icons
+    'navbar_end': ['theme-switcher', 'navbar-icon-links'],
+    # Icon links
+    "icon_links": [
+        # GitHub of the proyect
+        {"name": "GitHub",
+         "url": "https://github.com/ecastroth/sphinx-documentation-demo",
+         "icon": "fa-brands fa-square-github",
+         "type": "fontawesome",}
+    ]
+}
