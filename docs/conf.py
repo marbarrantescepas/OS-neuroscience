@@ -33,7 +33,7 @@ release = '1.0'
 extensions = [
     #'numpydoc',             # NumPy documentation
     'sphinx.ext.viewcode',  # Link to local code
-    'myst_parser',          # For using Markdown inside reST
+    #'myst_parser',          # For using Markdown inside reST
     'sphinx_design',        # To add buttons and cards
 ]
 
