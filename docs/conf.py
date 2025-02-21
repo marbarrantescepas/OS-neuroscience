@@ -18,8 +18,8 @@ sys.path.insert(0, os.path.abspath(os.path.join('..', '..')))
 # -- Project information -----------------------------------------------------
 
 project = 'Demorepo'
-copyright = '2023, Eduardo Castro'
-author = 'Eduardo Castro'
+copyright = '2023, OSWG'
+author = 'Mar Barrantes Cepas & Eva van Heese'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -82,7 +82,7 @@ myst_heading_anchors = 4
 # a list of builtin themes.
 
 #html_theme = 'pydata_sphinx_theme' 
-html_theme = 'sphinx-rtd-theme' #'alabaster'
+html_theme = 'sphinx_rtd_theme' #'alabaster'
 
 
 #html_theme_options = { 'style_nav_header_background': '#259595'}
