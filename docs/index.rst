@@ -1,8 +1,37 @@
----
-layout: default
-title: Home
-nav_order: 1
----
+.. ENIGMA TOOLBOX documentation master file, created by
+   sphinx-quickstart on Wed Jul 15 16:09:38 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. **ENIGMA TOOLBOX**
+   ============================
+   *An open source repository for the sharing of neuroimaging and genetics data, analytical
+   codes, and visualization tools that are 100% ENIGMA-friendly and -focused.*
+
+.. title:: ENIGMA TOOLBOX
+
+.. raw:: html
+
+   <style type="text/css">
+      hr {
+      width: 100%;
+      height: 1px;
+      background-color: #259595;
+      margin-top: 24px;
+      }
+   </style>
+
+.. .. image:: #./pages/extrafigs/wmap.png
+   :align: left
+   :target: #http://enigma.ini.usc.edu/
+   :alt: ENIGMA TOOLBOX
+
+
+**Welcome to the ENIGMA TOOLBOX 👋🏼**
+==========================================
+
+.. raw:: html
+   <hr>
 
 # Open Science Guidebook for Neuroscience
 
