@@ -35,7 +35,7 @@ extensions = [
     'sphinx.ext.viewcode',  # Link to local code
     #'myst_parser',          # For using Markdown inside reST
     #'sphinx_design',        # To add buttons and cards
-    'sphinx_rtd_theme',
+    'sphinx-rtd-theme',
     'sphinxcontrib-jquery', 
 ]
 
