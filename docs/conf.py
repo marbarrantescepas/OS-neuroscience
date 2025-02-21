@@ -36,7 +36,7 @@ extensions = [
     #'myst_parser',          # For using Markdown inside reST
     #'sphinx_design',        # To add buttons and cards
     #'sphinx-rtd-theme',
-    'sphinxcontrib-jquery', 
+    #'sphinxcontrib-jquery', 
 ]
 
 # Add any paths that contain templates here, relative to this directory.
