@@ -82,7 +82,8 @@ myst_heading_anchors = 4
 # a list of builtin themes.
 
 #html_theme = 'pydata_sphinx_theme' 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme' #'alabaster'
+
 
 #html_theme_options = { 'style_nav_header_background': '#259595'}
 
