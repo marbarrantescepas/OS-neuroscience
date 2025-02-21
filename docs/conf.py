@@ -83,8 +83,8 @@ myst_heading_anchors = 4
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 
-#html_theme = 'pydata_sphinx_theme' 
-html_theme = 'sphinx-rtd-theme' #'alabaster'
+html_theme = 'pydata_sphinx_theme' 
+#html_theme = 'sphinx-rtd-theme' #'alabaster'
 
 
 #html_theme_options = { 'style_nav_header_background': '#259595'}
