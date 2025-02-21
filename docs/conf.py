@@ -143,7 +143,7 @@ man_pages = [
     )
 ]
 
-language = "en"
+#language = "en"
 
 locale_dirs = [
     f"{docset}/locale/",
