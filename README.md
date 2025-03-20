@@ -5,6 +5,8 @@
 
 Welcome to the Open Science Guidelines for Neuroscience repository. This repository aims to provide a comprehensive set of guidelines and resources to promote and apply open science principles in the field of neuroscience. Check the guidelines in our [website](https://marbarrantescepas.github.io/OS-neuroscience/)!
 
+Our project seeks to **spread Open Science in the Neuroscience field**. The guidebook offers step-by-step guidance on data management, pre-registration, protocol and code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, research technicians, and all career-level scientists, fostering collaboration, reproducibility, and transparency within the neuroscience community.
+
 ## Table of Contents
 
 0. [Home](https://marbarrantescepas.github.io/OS-neuroscience/)
@@ -18,22 +20,14 @@ Welcome to the Open Science Guidelines for Neuroscience repository. This reposit
 8. [Create your own group](https://marbarrantescepas.github.io/OS-neuroscience/tabs/8.%20Create%20an%20Open%20Science%20Group.html)
 9. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/10.%20Recognition%20&%20Reward.html)
 
-## Project background
+# How to contribute
 
-Our project seeks to **create a tailored Open Science Guidebook for Neuroscience**, addressing knowledge gaps hindering open science practices. The guidebook will offer step-by-step guidance on data management, pre-registration, protocol sharing, analysis code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, early-career scientists, and professionals, fostering collaboration, reproducibility, and transparency within the neuroscience community.
+🌱 We would like to stay in contact with all the amazing people of the **open neuroscience community**. We look forward to collaborating with other neuroscientists to create a supportive environment where everyone can thrive and reach their full potential. We aspire to cultivate a community that actively contributes to maintaining and updating the guidebook’s content, ensuring long-term sustainability and relevance.
 
-## Next steps
+🧠 If you'd like to contribute, you can either open an issue to share your suggestions, and we'll review them, or submit a pull request directly. Thank you for your support! 
 
-The immediate focus is on **officially launching the project**, incorporating all chapters by including relevant text, figures, and graphical material to enhance accessibility. Disseminating the content within our department and beyond is a crucial mid-term objective.
+✨ Many, many thanks to our mentor from OLS-8 cohort, **Siobhan Hall**, for guiding us through the process, providing feedback, and giving a broad perspective!
 
-Looking further ahead, we aspire to cultivate a community that actively contributes to maintaining and updating the guidebook’s content, ensuring long-term sustainability and relevance.
-
-# Staying connected
-
-🌱 We would like to stay in contact with all the amazing people of the OS community. We look forward to collaborating with other neuroscientists to create a supportive environment where everyone can thrive and reach their full potential.
-
-🧠 We would like to hear from you, and we are looking forward to contributors, if you are interested, contact us via email open.science.anw@amsterdamumc.nl
-
-✨ Many, many thanks to our mentor from OLS-8 cohort, Siobhan Hall, for guiding us through the process, providing feedback, and giving a broad perspective!
-
+## Contact
+For further information, contact us via email **open.science.anw@amsterdamumc.nl**
 ---
