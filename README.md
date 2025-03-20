@@ -5,6 +5,11 @@ Welcome to the Open Science Guidelines for Neuroscience repository. This reposit
 
 Our project seeks to **spread Open Science in the Neuroscience field**. The guidebook offers step-by-step guidance on data management, pre-registration, protocol and code sharing, and open-access publishing. Uniquely designed for the diverse subfields of neuroscience, it consolidates existing resources and introduces new content to address specific challenges. Accessible to researchers at all levels, it aims to empower students, research technicians, and all career-level scientists, fostering collaboration, reproducibility, and transparency within the neuroscience community.
 
+## Meet the Team
+We are the [Open Science Working Group](https://anatomy-neurosciences.com/initiatives/openscience/) at Amsterdam UMC's Anatomy and Neuroscience Department, a diverse team of neuroscientists, including Ph.D. researchers, postdocs, research assistants, and technicians, all united by our passion for Open Science. 
+
+<img src="images/Guidebook_homepage_v3.png" width="700">
+
 ## Table of Contents
 
 0. [Home](https://marbarrantescepas.github.io/OS-neuroscience/)
