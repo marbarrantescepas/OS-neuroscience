@@ -27,5 +27,7 @@ Our project seeks to **spread Open Science in the Neuroscience field**. The guid
 ✨ Many, many thanks to our mentor from OLS-8 cohort, **Siobhan Hall**, for guiding us through the process, providing feedback, and giving a broad perspective!
 
 ## Contact
+
 For further information, contact us via email **open.science.anw@amsterdamumc.nl**
+
 ---
