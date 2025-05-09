@@ -55,7 +55,7 @@ language = "en"
 
 # Numpydoc
 numpydoc_show_class_members = True 
-numpydoc_class_members_toctree = True
+numpydoc_class_members_toctree = False
 numpydoc_show_inherited_class_members = False
 
 # Autodoc
@@ -87,7 +87,7 @@ myst_heading_anchors = 4
 html_theme = 'sphinx_rtd_theme' #'alabaster'
 
 
-html_theme_options = { 'style_nav_header_background': '#259595'}
+#html_theme_options = { 'style_nav_header_background': '#259595'}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
