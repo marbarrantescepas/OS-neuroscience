@@ -21,7 +21,8 @@ We are the [Open Science Working Group](https://anatomy-neurosciences.com/initia
 6. [Open-Access Publishing and Preprints](https://marbarrantescepas.github.io/OS-neuroscience/tabs/6.%20Publishing%20&%20Preprints.html)
 7. [Science Communication](https://marbarrantescepas.github.io/OS-neuroscience/tabs/7.%20Communication.html)
 8. [Starting Open Science methodologies and initiation within your own network](https://marbarrantescepas.github.io/OS-neuroscience/tabs/8.%20Create%20an%20Open%20Science%20Group.html)
-9. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/10.%20Recognition%20&%20Reward.html)
+9. [Recognition & Reward](https://marbarrantescepas.github.io/OS-neuroscience/tabs/9. Recognition & Reward.md)
+
 
 ## How to contribute
 
